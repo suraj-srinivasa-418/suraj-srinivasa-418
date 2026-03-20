@@ -1,8 +1,8 @@
 # Hi, I'm Suraj 👋
 ### Backend Engineer · Systems Programmer · CS @ UNC Charlotte
 
-I build backends that scale, data pipelines that don't break, and the occasional
-ML model that actually generalizes. I'm most at home writing C or designing
+A dedicated team player that builds backends that scale, data pipelines that don't break, and the occasional
+ML model that actually generalizes (most of the time anyways). I'm usually at home writing C/C++ or designing
 distributed systems — and I'm always looking for the next hard problem to solve.
 
 
@@ -11,9 +11,9 @@ distributed systems — and I'm always looking for the next hard problem to solv
 **⚡ Quick facts**
 - 🎓 CS @ UNCC, graduating Dec 2026
 - 📍 Charlotte, NC
-- 🔍 Seeking Summer 2026 internships
+- 🔍 Seeking Summer and Fall 2026 internships
 - 💡 Concentration: Software Systems & Networking
-- 🧠 Currently: learning parallel programming & ML
+- 🧠 Currently: Learning Parallel Programming, ML, and System Design
 
 	
 
