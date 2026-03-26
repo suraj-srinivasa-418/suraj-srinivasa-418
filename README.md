@@ -9,7 +9,7 @@ distributed systems — and I'm always looking for the next hard problem to solv
 
 
 **⚡ Quick facts**
-- 🎓 CS @ UNCC, graduating Dec 2026
+- 🎓 CS @ UNCC
 - 📍 Charlotte, NC
 - 🔍 Seeking Summer and Fall 2026 internships
 - 💡 Concentration: Software Systems & Networking
