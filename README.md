@@ -46,6 +46,9 @@ distributed systems — and I'm always looking for the next hard problem to solv
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Express5](https://img.shields.io/badge/Express5-000000?style=for-the-badge&logo=express&logoColor=white)
+
 
 **Data & ML**
 
@@ -60,6 +63,7 @@ distributed systems — and I'm always looking for the next hard problem to solv
 
 | Project | Stack | What it does |
 |---|---|---|
+|[RESTful Blog API](https://github.com/suraj-srinivasa-418/RESTful-Blog-API)|NodeJs · PrismaORM · PostgreSQL · REST · Express 5| Clean RESTful API with user authentication, access control, and rate limiting|
 | [Credit Fraud Detection](https://github.com/suraj-srinivasa-418/CreditCardFraud_prealphademo) | Python · PCA · sklearn | Full ML pipeline for anomaly detection — supervised + unsupervised |
 | [Node.js Blog API](https://github.com/suraj-srinivasa-418/Blog_API) | Node.js · REST · ESLint | Clean backend API with logging, linting, structured architecture |
 | [Stats Functions CLI](https://github.com/suraj-srinivasa-418/Stats_functions) | C | CLI tool: Z-score, IQR, variance — written in pure C |
